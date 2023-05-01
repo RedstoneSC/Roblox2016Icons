@@ -2,6 +2,7 @@
 This pack includes some of the 2016 through mid 2019 icons.<br>
 To download: Click the green 'Code' button and then click 'Download as ZIP'<br>
 Keep in mind, you should set it up manually. The original one had a virus, so I decided to make a fork of it and remove malware.<br>
+<br>
 Continuing.<br>
 <br>
 # Manual Setup
