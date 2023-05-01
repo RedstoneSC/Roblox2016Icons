@@ -22,8 +22,10 @@ Make sure you have downloaded the texture pack, otherwise it will NOT work!<br>
 <br>
 3. If you got the path correct, you should be able to see a lot of these folders.<br>
 <br>
-![image](https://user-images.githubusercontent.com/100803757/235505247-a6e9676e-14eb-4243-bd27-5beaf8abfafb.png)<br>
-![image](https://user-images.githubusercontent.com/100803757/235505416-aa98691a-c816-4437-a008-5275421eb249.png)<br>
+![image](https://user-images.githubusercontent.com/100803757/235505247-a6e9676e-14eb-4243-bd27-5beaf8abfafb.png)
+<br>
+![image](https://user-images.githubusercontent.com/100803757/235505416-aa98691a-c816-4437-a008-5275421eb249.png)
+<br>
 <br>
 We will be mainly focusing on "Cursors" folder, but then "ui" folder.<br>
 <br>
