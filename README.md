@@ -20,5 +20,5 @@ Make sure you have downloaded the texture pack, otherwise it will NOT work!<br>
 Drag the sounds folder and textures from downloaded texture pack to the Roblox content folder.<br>
 - if a notification box pops up, replace all.<br>
 <br>
-# NOTICE!
-This works on all versions of Roblox, by the way.
+This works on all versions of Roblox, by the way.<br>
+If you did it correctly, you are good to go!
