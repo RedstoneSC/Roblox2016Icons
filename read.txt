@@ -1,0 +1,3 @@
+do not use OLD_Roblox2016TexturePack folder setup.
+it is way old.
+unless you want to suffer with smaller textures
